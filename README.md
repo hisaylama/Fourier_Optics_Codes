@@ -1,2 +1,2 @@
 # Fourier-Optics
-Codes
+Matlab code for creating the multiple circular spots in the 2D plane in the maltab
