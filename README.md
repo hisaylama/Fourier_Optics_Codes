@@ -11,4 +11,4 @@ Run either Interact_Multiple_plot or Multiple_plot [circ.m should be in the same
 ---
 
 ## Reference: 
-Computational Fourier optics by David Voelz
+Computational Fourier optics by David Voelz.
